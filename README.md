@@ -91,29 +91,29 @@ Option simple :
 	<summary>Voir les captures (gestion_location)</summary>
 	<br/>
 	<p><strong>Accueil (index)</strong></p>
-	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-index-jsp-2026-01-09-15_14_23.png" width="900" />
+	<img src="https://raw.githubusercontent.com/WAJDIBZ/ElGarage/main/gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-index-jsp-2026-01-09-15_14_23.png" width="900" />
 	<br/><br/>
 
 	<p><strong>Dashboard client</strong></p>
-	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_32_52.png" width="900" />
+	<img src="https://raw.githubusercontent.com/WAJDIBZ/ElGarage/main/gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_32_52.png" width="900" />
 	<br/><br/>
-	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_48_36.png" width="900" />
+	<img src="https://raw.githubusercontent.com/WAJDIBZ/ElGarage/main/gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_48_36.png" width="900" />
 	<br/><br/>
-	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_49_08.png" width="900" />
+	<img src="https://raw.githubusercontent.com/WAJDIBZ/ElGarage/main/gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_49_08.png" width="900" />
 	<br/><br/>
-	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_49_26.png" width="900" />
+	<img src="https://raw.githubusercontent.com/WAJDIBZ/ElGarage/main/gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_49_26.png" width="900" />
 	<br/><br/>
 
 	<p><strong>Mes rendez-vous</strong></p>
-	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-MesRendezVous-jsp-2026-01-09-15_54_47.png" width="900" />
+	<img src="https://raw.githubusercontent.com/WAJDIBZ/ElGarage/main/gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-MesRendezVous-jsp-2026-01-09-15_54_47.png" width="900" />
 	<br/><br/>
 
 	<p><strong>Paiement (Stripe Checkout)</strong></p>
-	<img src="gestion_location/screens/screencapture-checkout-stripe-c-pay-cs-test-a1FPTTVGRe9s5GbRXK4xoq1kBB1y6ZIOIu6dGBb2yrit2qOQxhJdPip5Ai-2026-01-09-15_50_54.png" width="900" />
+	<img src="https://raw.githubusercontent.com/WAJDIBZ/ElGarage/main/gestion_location/screens/screencapture-checkout-stripe-c-pay-cs-test-a1FPTTVGRe9s5GbRXK4xoq1kBB1y6ZIOIu6dGBb2yrit2qOQxhJdPip5Ai-2026-01-09-15_50_54.png" width="900" />
 	<br/><br/>
 
 	<p><strong>Page appli (war exploded)</strong></p>
-	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-2026-01-09-15_13_15.png" width="900" />
+	<img src="https://raw.githubusercontent.com/WAJDIBZ/ElGarage/main/gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-2026-01-09-15_13_15.png" width="900" />
 	<br/>
 </details>
 
