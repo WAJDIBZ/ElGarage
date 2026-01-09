@@ -85,6 +85,38 @@ Option simple :
 3. Démarre Tomcat
 4. Ouvre : `http://localhost:8080/gestion_location/`
 
+## Screenshots
+
+<details>
+	<summary>Voir les captures (gestion_location)</summary>
+	<br/>
+	<p><strong>Accueil (index)</strong></p>
+	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-index-jsp-2026-01-09-15_14_23.png" width="900" />
+	<br/><br/>
+
+	<p><strong>Dashboard client</strong></p>
+	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_32_52.png" width="900" />
+	<br/><br/>
+	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_48_36.png" width="900" />
+	<br/><br/>
+	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_49_08.png" width="900" />
+	<br/><br/>
+	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-ClientDashboard-jsp-2026-01-09-15_49_26.png" width="900" />
+	<br/><br/>
+
+	<p><strong>Mes rendez-vous</strong></p>
+	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-MesRendezVous-jsp-2026-01-09-15_54_47.png" width="900" />
+	<br/><br/>
+
+	<p><strong>Paiement (Stripe Checkout)</strong></p>
+	<img src="gestion_location/screens/screencapture-checkout-stripe-c-pay-cs-test-a1FPTTVGRe9s5GbRXK4xoq1kBB1y6ZIOIu6dGBb2yrit2qOQxhJdPip5Ai-2026-01-09-15_50_54.png" width="900" />
+	<br/><br/>
+
+	<p><strong>Page appli (war exploded)</strong></p>
+	<img src="gestion_location/screens/screencapture-localhost-8081-gestion-location-war-exploded-2026-01-09-15_13_15.png" width="900" />
+	<br/>
+</details>
+
 ## Dév rapide (conseils)
 - Si tu utilises IntelliJ/Eclipse, configure un serveur Tomcat et déploie l’artefact `war`.
 - Les identifiants DB sont actuellement en dur dans le code (ex: `root` / vide). Pour production, il faut externaliser.
@@ -98,5 +130,4 @@ Option simple :
 
 ---
 Si tu veux, je peux aussi :
-- externaliser la config DB (URL/user/pass) via variables d’environnement,
-- ajouter une petite section “Screenshots” si tu me fournis 2–3 captures.
+- externaliser la config DB (URL/user/pass) via variables d’environnement.
